@@ -8,7 +8,7 @@ Find out with these specially designed files containing edge cases, data inconsi
 
 ### pdb/
 
-Modified Protein Data Bank coordinate files, along with diffs from the original verions, and a description of the changes.
+Modified Protein Data Bank coordinate files, along with diffs from the original versions, and a description of the changes.
 
 ### fasta/
 
