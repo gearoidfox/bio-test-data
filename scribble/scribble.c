@@ -3,7 +3,7 @@
  *
  * Default: write over 1% of input bytes with random data
  *
- * Takes an optional command line argum
+ * Optional argument p [0-1]: bytes written over with probability p
  */
 #include<stdio.h>
 #include<string.h>
