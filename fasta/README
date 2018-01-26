@@ -1,0 +1,12 @@
+Files with extension .fa ostensibly store one or more sequences.
+Files with extension .afa ostensibly store a sequence alignment.
+
+1.fa    empty file
+2.fa    no sequence labels or sequence data
+3.fa    sequence not wrapped, line 2 is 5498450 columns wide
+4.fa    non-standard sequence wrapping
+5.afa   sequences are non alphabetic characters
+6.afa   non-ASCII sequence IDs
+7.fa    everything is emojis
+8.fa    sequence description marked with ; instead of >
+9.afa   blank lines within sequences

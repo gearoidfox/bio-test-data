@@ -1,0 +1,18 @@
+431c431
+< SEQRES  21 A  288  GLN TYR GLY ASP TYR GLN GLN GLN VAL GLY THR GLY ILE          
+---
+> SEQRES  21 A  288  GLN TYR CYS ASP TYR GLN GLN GLN VAL GLY THR GLY ILE          
+2690,2695c2690,2695
+< ATOM   2142  N   GLY A 263      22.040  35.982  69.334  1.00 29.19           N  
+< ATOM   2143  CA  GLY A 263      22.167  34.565  69.011  1.00 32.06           C  
+< ATOM   2144  C   GLY A 263      20.989  34.100  68.163  1.00 28.75           C  
+< ATOM   2145  O   GLY A 263      21.170  33.411  67.154  1.00 34.55           O  
+< ATOM   2146  CB  GLY A 263      22.276  33.742  70.295  1.00 33.05           C  
+< ATOM   2147  SG  GLY A 263      22.783  32.026  70.032  1.00 61.83           S  
+---
+> ATOM   2142  N   CYS A 263      22.040  35.982  69.334  1.00 29.19           N  
+> ATOM   2143  CA  CYS A 263      22.167  34.565  69.011  1.00 32.06           C  
+> ATOM   2144  C   CYS A 263      20.989  34.100  68.163  1.00 28.75           C  
+> ATOM   2145  O   CYS A 263      21.170  33.411  67.154  1.00 34.55           O  
+> ATOM   2146  CB  CYS A 263      22.276  33.742  70.295  1.00 33.05           C  
+> ATOM   2147  SG  CYS A 263      22.783  32.026  70.032  1.00 61.83           S  

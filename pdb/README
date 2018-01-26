@@ -1,0 +1,22 @@
+1aup    SEQRES: sequence shorter than expected
+1avx    SEQRES: sequence longer than expected
+1knt    no header
+3kh0    only a header
+5v7p    SEQRES, ATOM: cysteine mislabelled as a glycine 
+1px3    SEQRES, ATOM: glycine mislabelled as a cysteine
+2mpn    MODEL: Multiple models, removed MODEL records
+1j8k    ENDMDL: Multiple models, removed ENDMDL records
+5x0t    ATOM, HETATM: '.' replaced by ',' in real number fields
+1ubq    File order reversed (last line first, first line last)
+1ozy    English text, no PDB data
+1qlx    ATOM: '#' written over column 12 of ATOM records
+1fne    ATOM, HETATM / '%' written over column 21 of ATOM/HETATM records
+1nh7    5% of characters overwritten with random bytes
+5d8v    1% of characters overwritten with random bytes
+3p4j    REMARK: A REMARK in the header is 5500 columns wide
+4hp2    All lines wider than 80 columns
+1xyz    ATOM, HETATM: All atoms relabelled as uranium in element field
+4xow    ATOM: 5 sets of coordinates for same atom (atom 301)
+1g6m    ATOM: multiple models, deleted different group of atoms from each model
+2x0l    ATOM, HETATM: clear occupancy field
+2atc    ATOM, HETATM: clear z coordinate field
