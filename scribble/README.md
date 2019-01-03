@@ -4,6 +4,7 @@ This tool unreliably copies the standard input to the standard output. A proport
 
 Usage:
 
+    make
     scribble < input > output
     scribble p < input > output
 
