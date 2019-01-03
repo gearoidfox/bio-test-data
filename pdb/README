@@ -10,7 +10,7 @@
 1ubq    File order reversed (last line first, first line last)
 1ozy    English text, no PDB data
 1qlx    ATOM: '#' written over column 12 of ATOM records
-1fne    ATOM, HETATM / '%' written over column 21 of ATOM/HETATM records
+1fne    ATOM, HETATM: '%' written over column 21 of ATOM/HETATM records
 1nh7    5% of characters overwritten with random bytes
 5d8v    1% of characters overwritten with random bytes
 3p4j    REMARK: A REMARK in the header is 5500 columns wide
