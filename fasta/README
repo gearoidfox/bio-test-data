@@ -10,3 +10,6 @@ Files with extension .afa ostensibly store a sequence alignment.
 7.fa    everything is emojis
 8.fa    sequence description marked with ; instead of >
 9.afa   blank lines within sequences
+10.fa   whitespace between > and sequence id
+11.fa   sequences indented
+12.fa   everything is indented eight spaces
