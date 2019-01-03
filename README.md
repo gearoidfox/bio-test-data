@@ -1,19 +1,17 @@
-![Stranger Data](img/banner.png)
+# Bioinformatics Test Data
 
-What happens when your new bioinformatics tool runs on malformed data? Does it politely work around the errors? Quit with a helpful message? Set your lab on fire?
-
-Find out with these specially designed files containing edge cases, data inconsitencies and other oddities and nonsense.
+This is a collection of files in PDB and FASTA formats that can be used to test the response of bioinformatics applications to unusual or pathalogical input data.
 
 ## Contents
 
 ### pdb/
 
-Modified Protein Data Bank coordinate files, along with diffs from the original verions, and a description of the changes.
+Modified Protein Data Bank coordinate files, along with diffs from the original versions, and a description of the changes.
 
 ### fasta/
 
-Files to test FASTA sequence and alignment input.
+Files designed to test FASTA sequence and alignment parsing.
 
 ### scribble/
 
-A small tool to write bad data over a file.
+A tool to introduce random errors into a file.
